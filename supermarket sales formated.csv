@@ -1,4 +1,5 @@
-﻿750-67-8428,A,Yangon,2019,January,Member,Female,Health and beauty,75,7,26,549,Ewallet,523,5,26,9
+﻿Invoice_ID,Branch	,City	,Year,	Month,	Customer_type,	Gender,	Product_line,	Unit_price,	Quantity,	Tax, 	Total,Payment,	cost_of_good_sold	,gross_margin_percentage,	gross_income,Rating
+ 750-67-8428,A,Yangon,2019,January,Member,Female,Health and beauty,75,7,26,549,Ewallet,523,5,26,9
 226-31-3081,C,Naypyitaw,2019,March,Normal,Female,Electronic accessories,15,5,4,80,Cash,76,5,4,10
 631-41-3108,A,Yangon,2019,March,Normal,Male,Home and lifestyle,46,7,16,341,Credit card,324,5,16,7
 123-19-1176,A,Yangon,2019,January,Member,Male,Health and beauty,58,8,23,489,Ewallet,466,5,23,8
