@@ -18,4 +18,4 @@ Analysis Done on following topics
 7) Counting Total number of People using cash,Ewallet , Credit Card
 8) checking City with popular medium of payment cash or Ewallet or Credit Card 
 9) Checking cost of good sold of each product line with total profit  form each product line
-10) Checking cost of good sold of each product line with total profit  form each product line filter by Yangon city
+10) Checking cost of good sold of each product line with total profit  form each product line filter by Yangon city.
